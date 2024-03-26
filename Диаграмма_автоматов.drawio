@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T10:49:46.752Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="DAaUflhkf3_kNmYTfEOi" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T10:51:30.807Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="FZ3s0lug5G3Vt4qndBDr" version="24.0.5" type="github">
   <diagram name="Страница — 1" id="CQMrf1lWNn9pbY3fDf8r">
     <mxGraphModel dx="2741" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -425,7 +425,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="paC2yLpB5WYUFo3zE5o6-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="paC2yLpB5WYUFo3zE5o6-2">
+        <mxCell id="paC2yLpB5WYUFo3zE5o6-3" value="нажатие на сеанс" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="paC2yLpB5WYUFo3zE5o6-2">
           <mxGeometry x="-0.4177" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -450,6 +450,9 @@
         <mxCell id="paC2yLpB5WYUFo3zE5o6-7" value="Ошибка оплаты" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="225" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="paC2yLpB5WYUFo3zE5o6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.9;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="paC2yLpB5WYUFo3zE5o6-8" target="x12aQ69rx99nIMiCHYCn-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="paC2yLpB5WYUFo3zE5o6-8" value="Отправка билетов на почту" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="140" width="130" height="50" as="geometry" />
         </mxCell>
@@ -464,6 +467,11 @@
               <mxPoint x="973" y="1140" />
               <mxPoint x="590" y="1140" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="paC2yLpB5WYUFo3zE5o6-16" value="нажатие на кнопку назад" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="paC2yLpB5WYUFo3zE5o6-14">
+          <mxGeometry x="0.4222" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
