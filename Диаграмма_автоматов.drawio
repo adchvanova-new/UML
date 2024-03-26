@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T10:52:12.490Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="VRxA6gOBvL82cUSgdLRc" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T10:56:33.430Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="3FgcO_-TDLYVguob9weT" version="24.0.5" type="github">
   <diagram name="Страница — 1" id="CQMrf1lWNn9pbY3fDf8r">
-    <mxGraphModel dx="2741" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2741" dy="2115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,6 +83,16 @@
         <mxCell id="x12aQ69rx99nIMiCHYCn-152" value="нажатие на фильм из списка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="x12aQ69rx99nIMiCHYCn-151" vertex="1" connectable="0">
           <mxGeometry x="-0.0646" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="paC2yLpB5WYUFo3zE5o6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x12aQ69rx99nIMiCHYCn-69" target="x12aQ69rx99nIMiCHYCn-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="647.0500000000002" y="440.00800000000004" as="sourcePoint" />
+            <mxPoint x="355" y="243" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="-90" />
+              <mxPoint x="355" y="-90" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="x12aQ69rx99nIMiCHYCn-69" value="Отображения страницы показываемых в кинотеатре фильмов" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -470,6 +480,9 @@
           <mxGeometry x="0.4222" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="paC2yLpB5WYUFo3zE5o6-19" value="выход из системы" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="484" y="-90.00444444444446" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
