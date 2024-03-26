@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T10:57:13.974Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="61fhqSUkBEwIk2rQgvBv" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T10:57:59.575Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="Z9NSkUQhCop9M_4BawGQ" version="24.0.5" type="github">
   <diagram name="Страница — 1" id="CQMrf1lWNn9pbY3fDf8r">
     <mxGraphModel dx="2741" dy="2115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -457,11 +457,11 @@
         <mxCell id="paC2yLpB5WYUFo3zE5o6-7" value="Ошибка оплаты" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="225" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="paC2yLpB5WYUFo3zE5o6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.9;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="paC2yLpB5WYUFo3zE5o6-8" target="x12aQ69rx99nIMiCHYCn-69">
+        <mxCell id="paC2yLpB5WYUFo3zE5o6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="paC2yLpB5WYUFo3zE5o6-8" target="x12aQ69rx99nIMiCHYCn-101">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="670" y="165" />
-              <mxPoint x="670" y="444" />
+              <mxPoint x="630" y="165" />
+              <mxPoint x="630" y="345" />
             </Array>
           </mxGeometry>
         </mxCell>
