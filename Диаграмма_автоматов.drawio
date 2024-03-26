@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T10:51:30.807Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="FZ3s0lug5G3Vt4qndBDr" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T10:52:12.490Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="VRxA6gOBvL82cUSgdLRc" version="24.0.5" type="github">
   <diagram name="Страница — 1" id="CQMrf1lWNn9pbY3fDf8r">
     <mxGraphModel dx="2741" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
             <mxPoint x="59" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x12aQ69rx99nIMiCHYCn-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="x12aQ69rx99nIMiCHYCn-57" target="x12aQ69rx99nIMiCHYCn-66" edge="1">
+        <mxCell id="x12aQ69rx99nIMiCHYCn-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="x12aQ69rx99nIMiCHYCn-57" target="x12aQ69rx99nIMiCHYCn-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x12aQ69rx99nIMiCHYCn-57" value="Ожидание входа в систему" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -63,9 +63,6 @@
         </mxCell>
         <mxCell id="x12aQ69rx99nIMiCHYCn-65" value="Проверка логина и пароля" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="200" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="x12aQ69rx99nIMiCHYCn-66" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="750" y="85" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x12aQ69rx99nIMiCHYCn-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="x12aQ69rx99nIMiCHYCn-69" target="x12aQ69rx99nIMiCHYCn-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -209,7 +206,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x12aQ69rx99nIMiCHYCn-108" value="выход из системы" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="650" y="84.99555555555554" as="geometry" />
+          <mxGeometry x="380" y="80.99555555555554" as="geometry" />
         </mxCell>
         <mxCell id="x12aQ69rx99nIMiCHYCn-109" value="выход из системы" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="320" y="189.99555555555554" as="geometry" />
